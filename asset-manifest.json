@@ -1,16 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.2513eaec.js",
-    "static/js/453.d6db91da.chunk.js": "/static/js/453.d6db91da.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.e81bd6d7.css",
+    "main.js": "/static/js/main.74572a0e.js",
+    "static/media/home2-min.png": "/static/media/home2-min.c4496f1124b324f23452.png",
+    "static/media/ar_lighting-min.png": "/static/media/ar_lighting-min.8038c25826255014e34a.png",
+    "static/media/home-min.png": "/static/media/home-min.a6cd334250b3f545ec27.png",
+    "static/media/ar_moble-min.png": "/static/media/ar_moble-min.50c204b20d6e6ab13128.png",
+    "static/media/moble_list-min.png": "/static/media/moble_list-min.f7fd0da0b40468cb45ea.png",
+    "static/media/tag_list-min.png": "/static/media/tag_list-min.2908514bde91bd29b574.png",
+    "static/media/moble_editor-min.png": "/static/media/moble_editor-min.e0daf46e72bde40ff62f.png",
+    "static/media/edit_tag-min.png": "/static/media/edit_tag-min.875499a39fbe0bd92dfe.png",
+    "static/media/add_tag-min.png": "/static/media/add_tag-min.57a6fef10395f16de9fd.png",
+    "static/media/edit_moble-min.png": "/static/media/edit_moble-min.6049880c69e559500161.png",
+    "static/media/add_moble-min.png": "/static/media/add_moble-min.6fac7fdfb0737aed0b17.png",
+    "static/media/home_tab-min.png": "/static/media/home_tab-min.fa1e59391719a0a523f6.png",
+    "static/media/quickview-min.png": "/static/media/quickview-min.cb0f08e0dfaa9a68a77b.png",
+    "static/media/tag_detail-min.png": "/static/media/tag_detail-min.cc324992a3f80839635e.png",
+    "static/media/webpage-logo.png": "/static/media/webpage-logo.f3a01b4d9108e31c998c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/Huawei.svg": "/static/media/Huawei.05f60516d2a39d595dabc4ffdec3856a.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Google-Play.svg": "/static/media/Google-Play.ac31ae6df1dba23b69f866a909077d74.svg",
+    "static/media/Apple-light.svg": "/static/media/Apple-light.cdd7304efd805f2053de1036bf9b5ed4.svg",
+    "static/media/Apple.svg": "/static/media/Apple.71320a89dc7cdb815431216cf0bc1dd2.svg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.2513eaec.js.map": "/static/js/main.2513eaec.js.map",
-    "453.d6db91da.chunk.js.map": "/static/js/453.d6db91da.chunk.js.map"
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.e81bd6d7.css.map": "/static/css/main.e81bd6d7.css.map",
+    "main.74572a0e.js.map": "/static/js/main.74572a0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.2513eaec.js"
+    "static/css/main.e81bd6d7.css",
+    "static/js/main.74572a0e.js"
   ]
 }
