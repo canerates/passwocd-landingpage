@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e81bd6d7.css",
-    "main.js": "/static/js/main.23707edf.js",
-    "static/media/home2-min.png": "/static/media/home2-min.c4496f1124b324f23452.png",
-    "static/media/ar_lighting-min.png": "/static/media/ar_lighting-min.8038c25826255014e34a.png",
-    "static/media/home-min.png": "/static/media/home-min.a6cd334250b3f545ec27.png",
-    "static/media/ar_moble-min.png": "/static/media/ar_moble-min.50c204b20d6e6ab13128.png",
-    "static/media/moble_list-min.png": "/static/media/moble_list-min.f7fd0da0b40468cb45ea.png",
-    "static/media/tag_list-min.png": "/static/media/tag_list-min.2908514bde91bd29b574.png",
-    "static/media/moble_editor-min.png": "/static/media/moble_editor-min.e0daf46e72bde40ff62f.png",
-    "static/media/edit_tag-min.png": "/static/media/edit_tag-min.875499a39fbe0bd92dfe.png",
-    "static/media/add_tag-min.png": "/static/media/add_tag-min.57a6fef10395f16de9fd.png",
-    "static/media/edit_moble-min.png": "/static/media/edit_moble-min.6049880c69e559500161.png",
-    "static/media/add_moble-min.png": "/static/media/add_moble-min.6fac7fdfb0737aed0b17.png",
-    "static/media/home_tab-min.png": "/static/media/home_tab-min.fa1e59391719a0a523f6.png",
-    "static/media/quickview-min.png": "/static/media/quickview-min.cb0f08e0dfaa9a68a77b.png",
-    "static/media/tag_detail-min.png": "/static/media/tag_detail-min.cc324992a3f80839635e.png",
-    "static/media/webpage-logo.png": "/static/media/webpage-logo.f3a01b4d9108e31c998c.png",
+    "main.css": "/static/css/main.e2ac67c7.css",
+    "main.js": "/static/js/main.5fb365b7.js",
+    "static/media/home2.png": "/static/media/home2.3db4e3d4d32e4807ce48.png",
+    "static/media/home1.png": "/static/media/home1.ee6bd0f2bd7cf9f792b7.png",
+    "static/media/platform_menu.png": "/static/media/platform_menu.3db4e3d4d32e4807ce48.png",
+    "static/media/account_menu.png": "/static/media/account_menu.1d67b6edf0b0a0333fb4.png",
+    "static/media/my_platforms_edit.png": "/static/media/my_platforms_edit.e5f9d1decb84a0d3da12.png",
+    "static/media/my_platforms.png": "/static/media/my_platforms.35eac3e8e6a9b0fa6d91.png",
+    "static/media/languages.png": "/static/media/languages.0235e9b624c843dc472c.png",
+    "static/media/settings.png": "/static/media/settings.4436c58fbdf770ef6a71.png",
+    "static/media/home.png": "/static/media/home.d48a6930ad0b68bc83be.png",
+    "static/media/my_accounts_edit.png": "/static/media/my_accounts_edit.f5a5feb634682b2a8d04.png",
+    "static/media/my_accounts.png": "/static/media/my_accounts.1dca51244cec83e329cf.png",
+    "static/media/webpage-logo.png": "/static/media/webpage-logo.dfd25ea9e26ef19e7314.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -27,11 +24,11 @@
     "static/media/Apple-light.svg": "/static/media/Apple-light.cdd7304efd805f2053de1036bf9b5ed4.svg",
     "static/media/Apple.svg": "/static/media/Apple.71320a89dc7cdb815431216cf0bc1dd2.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.e81bd6d7.css.map": "/static/css/main.e81bd6d7.css.map",
-    "main.23707edf.js.map": "/static/js/main.23707edf.js.map"
+    "main.e2ac67c7.css.map": "/static/css/main.e2ac67c7.css.map",
+    "main.5fb365b7.js.map": "/static/js/main.5fb365b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e81bd6d7.css",
-    "static/js/main.23707edf.js"
+    "static/css/main.e2ac67c7.css",
+    "static/js/main.5fb365b7.js"
   ]
 }
