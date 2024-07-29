@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2ac67c7.css",
-    "main.js": "/static/js/main.5fb365b7.js",
+    "main.css": "/static/css/main.8c7d95ca.css",
+    "main.js": "/static/js/main.da26f9c3.js",
+    "static/media/features2.png": "/static/media/features2.66403d5638bd368344d6.png",
     "static/media/home2.png": "/static/media/home2.3db4e3d4d32e4807ce48.png",
     "static/media/home1.png": "/static/media/home1.ee6bd0f2bd7cf9f792b7.png",
     "static/media/platform_menu.png": "/static/media/platform_menu.3db4e3d4d32e4807ce48.png",
+    "static/media/features.png": "/static/media/features.e0310d08c16069898fe1.png",
     "static/media/account_menu.png": "/static/media/account_menu.1d67b6edf0b0a0333fb4.png",
     "static/media/my_platforms_edit.png": "/static/media/my_platforms_edit.e5f9d1decb84a0d3da12.png",
     "static/media/my_platforms.png": "/static/media/my_platforms.35eac3e8e6a9b0fa6d91.png",
@@ -24,11 +26,11 @@
     "static/media/Apple-light.svg": "/static/media/Apple-light.cdd7304efd805f2053de1036bf9b5ed4.svg",
     "static/media/Apple.svg": "/static/media/Apple.71320a89dc7cdb815431216cf0bc1dd2.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.e2ac67c7.css.map": "/static/css/main.e2ac67c7.css.map",
-    "main.5fb365b7.js.map": "/static/js/main.5fb365b7.js.map"
+    "main.8c7d95ca.css.map": "/static/css/main.8c7d95ca.css.map",
+    "main.da26f9c3.js.map": "/static/js/main.da26f9c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2ac67c7.css",
-    "static/js/main.5fb365b7.js"
+    "static/css/main.8c7d95ca.css",
+    "static/js/main.da26f9c3.js"
   ]
 }
