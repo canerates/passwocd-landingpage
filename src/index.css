@@ -179,7 +179,7 @@ input{
 }
 #main .image-vertical {
     display: block;
-    width: 300px;
+    width: 250px;
     margin: auto;
 }
 
@@ -268,7 +268,7 @@ div .screens-item {
 div .screens-item img {
     opacity: 0.5;
     transform: scale(0.8);
-    width: 288px;
+    width: 254px;
 }
 
 .swiper-container .swiper-wrapper .slick-slider .slick-list .slick-track .slick-slide img {
@@ -449,7 +449,7 @@ div .screens-item img {
     }
     #main .image-vertical {
         display: block;
-        width: 370px;
+        width: 250px;
     }
 
     .section-padding-top {
@@ -472,7 +472,7 @@ div .screens-item img {
     }
     #main .image-vertical {
         display: block;
-        width: 370px;
+        width: 250px;
     }
 
     .section-padding-top {
@@ -496,7 +496,7 @@ div .screens-item img {
     }
     #main .image-vertical {
         display: block;
-        width: 370px;
+        width: 250px;
     }
 
     .section-padding-top {
@@ -520,11 +520,11 @@ div .screens-item img {
  @media (min-width: 1200px) {
     #main .image-horizontal {
         display: block;
-        width: 600px;
+        width: 700px;
     }
     #main .image-vertical {
         display: none;
-        width: 370px;
+        width: 300px;
     }
 
     .section-padding-top {
@@ -548,7 +548,7 @@ div .screens-item img {
     }
     #main .image-vertical {
         display: none;
-        width: 370px;
+        width: 300px;
     }
 
     .section-padding-top {

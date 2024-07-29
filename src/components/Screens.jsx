@@ -1,17 +1,15 @@
 import { Container, Row, Col } from 'reactstrap'
 import Slider from 'react-slick';
-import addMoble from '../assets/screens/add_moble-min.png';
-import addTag from '../assets/screens/add_tag-min.png';
-import quickview from '../assets/screens/quickview-min.png'
-import arLighting from '../assets/screens/ar_lighting-min.png';
-import arMoble from '../assets/screens/ar_moble-min.png';
-import editMoble from '../assets/screens/edit_moble-min.png';
-import editTag from '../assets/screens/edit_tag-min.png';
-import homeTab from '../assets/screens/home_tab-min.png';
-import mobleEditor from '../assets/screens/moble_editor-min.png';
-import mobleList from '../assets/screens/moble_list-min.png';
-import tagDetail from '../assets/screens/tag_detail-min.png';
-import tagList from '../assets/screens/tag_list-min.png';
+import account_menu from '../assets/screens/account_menu.png';
+import home1 from '../assets/screens/home1.png';
+import home2 from '../assets/screens/home2.png'
+import languages from '../assets/screens/languages.png';
+import myAccountsEdit from '../assets/screens/my_accounts_edit.png';
+import myAccounts from '../assets/screens/my_accounts.png';
+import myPlatformsEdit from '../assets/screens/my_platforms_edit.png';
+import myPlatforms from '../assets/screens/my_platforms.png';
+import platformMenu from '../assets/screens/platform_menu.png';
+import settingsScreen from '../assets/screens/settings.png';
 
 var settings = {
     centerMode: true,
@@ -72,34 +70,34 @@ const Screens = () => {
                             <div className='swiper-wrapper'>
                                 <Slider className='screens-slider' {...settings}>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={homeTab} />
+                                        <img alt='' className='screens-img' src={home1} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={mobleList} />
+                                        <img alt='' className='screens-img' src={platformMenu} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={quickview} />
+                                        <img alt='' className='screens-img' src={account_menu} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={tagList} />
+                                        <img alt='' className='screens-img' src={home2} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={tagDetail} />
+                                        <img alt='' className='screens-img' src={settingsScreen} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={mobleEditor} />
+                                        <img alt='' className='screens-img' src={myPlatforms} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={editMoble} />
+                                        <img alt='' className='screens-img' src={myPlatformsEdit} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={editTag} />
+                                        <img alt='' className='screens-img' src={myAccounts} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={arMoble} />
+                                        <img alt='' className='screens-img' src={myAccountsEdit} />
                                     </div>
                                     <div className='screens-item'>
-                                        <img alt='' className='screens-img' src={arLighting} />
+                                        <img alt='' className='screens-img' src={languages} />
                                     </div>
                                 </Slider>
                             </div>
