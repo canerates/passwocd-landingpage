@@ -1,7 +1,11 @@
 {
     "main_title_p1": "Generate",
-    "main_title_p2": "your password",
-    "main_description": "PasswOCD is your go-to app for generating super-strong, unique passwords for each of your accounts and platforms. Customize your account and platform lists to have more combination.",
+    "main_title_p2": "your passwords",
+    "main_description": "Stop using the same password for all your accounts. PasswOCD is your go-to app for generating super-strong, unique passwords for each of your accounts and platforms.",
+    "feature_title_p1": "Do not Save",
+    "feature_title_p1_2": "Just Generate",
+    "feature_title_p2": " when you need!",
+    "feature_description": " Create your private account with a personal keyword. PasswOCD does the rest with platform list to generate unique passwords for each platform and account combination.",
     "download": "DOWNLOAD",
     "contact": "Contact",
     "privacy_policy": "Privacy Policy",

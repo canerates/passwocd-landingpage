@@ -1,9 +1,13 @@
 {
-    "main_title_p1": "生成する",
-    "main_title_p2": "あなたのパスワード",
-    "main_description": "PasswOCDは、各アカウントやプラットフォームのために非常に強力でユニークなパスワードを生成するための頼れるアプリです。アカウントやプラットフォームのリストをカスタマイズして、さらに多くの組み合わせを作成しましょう。",
+    "main_title_p1": "Generate",
+    "main_title_p2": "your passwords",
+    "main_description": "Stop using the same password for all your accounts. PasswOCD is your go-to app for generating super-strong, unique passwords for each of your accounts and platforms.",
+    "feature_title_p1": "Do not Save",
+    "feature_title_p1_2": "Just Generate",
+    "feature_title_p2": " when you need!",
+    "feature_description": " Create your private account with a personal keyword. PasswOCD does the rest with platform list to generate unique passwords for each platform and account combination.",
     "download": "ダウンロード",
-    "contact": "お問い合わせ",
+    "contact": "連絡先",
     "privacy_policy": "プライバシーポリシー",
     "back": "戻る",
     

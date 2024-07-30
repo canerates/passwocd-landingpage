@@ -200,6 +200,10 @@ input{
     color: #5F97F8;
 }
 
+.main-description  .main-span2 {
+    color: #89a9e0;
+}
+
 .main-description .details{
     margin-top: 10px;
     font-size: 18px;

@@ -1,10 +1,14 @@
 {
-    "main_title_p1": "생성",
-    "main_title_p2": "당신의 비밀번호",
-    "main_description": "PasswOCD는 각 계정과 플랫폼에 대해 매우 강력하고 고유한 비밀번호를 생성할 수 있는 최고의 앱입니다. 계정 및 플랫폼 목록을 사용자 지정하여 더 많은 조합을 만드세요.",
+    "main_title_p1": "Generate",
+    "main_title_p2": "your passwords",
+    "main_description": "Stop using the same password for all your accounts. PasswOCD is your go-to app for generating super-strong, unique passwords for each of your accounts and platforms.",
+    "feature_title_p1": "Do not Save",
+    "feature_title_p1_2": "Just Generate",
+    "feature_title_p2": " when you need!",
+    "feature_description": " Create your private account with a personal keyword. PasswOCD does the rest with platform list to generate unique passwords for each platform and account combination.",
     "download": "다운로드",
     "contact": "연락처",
-    "privacy_policy": "개인정보 보호정책",
+    "privacy_policy": "개인정보 처리방침",
     "back": "뒤로",
     
     "privacy_h1_p1": "마지막 업데이트: 2024년 3월 17일",
