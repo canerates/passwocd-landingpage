@@ -3,13 +3,13 @@ import Slider from 'react-slick';
 import account_menu from '../assets/screens/account_menu.png';
 import home1 from '../assets/screens/home1.png';
 import home2 from '../assets/screens/home2.png'
-import languages from '../assets/screens/languages.png';
+import languages from '../assets/screens/languages2.png';
 import myAccountsEdit from '../assets/screens/my_accounts_edit.png';
 import myAccounts from '../assets/screens/my_accounts.png';
 import myPlatformsEdit from '../assets/screens/my_platforms_edit.png';
 import myPlatforms from '../assets/screens/my_platforms.png';
 import platformMenu from '../assets/screens/platform_menu.png';
-import settingsScreen from '../assets/screens/settings.png';
+import settingsScreen from '../assets/screens/settings2.png';
 
 var settings = {
     centerMode: true,
