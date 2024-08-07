@@ -14,7 +14,7 @@ function Main() {
       i18n.changeLanguage(lng);
     }, []);
 
-    const iOSUrl = 'https://apps.apple.com/tr/app/moblear-real-time-design-3d/id6479243434'
+    const iOSUrl = 'https://apps.apple.com/app/passwocd-password-generator/id6529549759'
     return(
         <section id='main'>
             <Container>
@@ -33,7 +33,7 @@ function Main() {
                         <Row>
                             <p className='details'>{t('translations:main_description')}</p>
                         </Row>
-                        {/* <Row>
+                        <Row>
                             <div className='app-store-button'>
                                 <AppStoreButton
                                     url={iOSUrl}
@@ -41,7 +41,7 @@ function Main() {
                                     height={60}
                                 />
                             </div>
-                        </Row> */}
+                        </Row>
                     </Col>
                 </Row>
                 

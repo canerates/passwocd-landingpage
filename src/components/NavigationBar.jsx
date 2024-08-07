@@ -38,11 +38,11 @@ function NavigationBar() {
                         <img src={logo} alt=''/>
                     </div>
                 </NavbarBrand>
-                {/* <Nav className='nav-opened ms-auto' navbar>
+                <Nav className='nav-opened ms-auto' navbar>
                     <NavItem>
-                        <a className='nav-link' activeClass='active' target='_blank' rel='noopener noreferrer' href='https://apps.apple.com/tr/app/moblear-real-time-design-3d/id6479243434'>{t('translations:download')}</a>
+                        <a className='nav-link' activeClass='active' target='_blank' rel='noopener noreferrer' href='https://apps.apple.com/app/passwocd-password-generator/id6529549759'>{t('translations:download')}</a>
                     </NavItem>
-                </Nav> */}
+                </Nav> 
             </Navbar>
     );
 }
