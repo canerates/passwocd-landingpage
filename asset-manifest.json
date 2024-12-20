@@ -1,36 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c7d95ca.css",
-    "main.js": "/static/js/main.e67a2c3c.js",
-    "static/media/features2.png": "/static/media/features2.66403d5638bd368344d6.png",
-    "static/media/home2.png": "/static/media/home2.3db4e3d4d32e4807ce48.png",
-    "static/media/home1.png": "/static/media/home1.ee6bd0f2bd7cf9f792b7.png",
-    "static/media/platform_menu.png": "/static/media/platform_menu.3db4e3d4d32e4807ce48.png",
-    "static/media/features.png": "/static/media/features.e0310d08c16069898fe1.png",
-    "static/media/account_menu.png": "/static/media/account_menu.1d67b6edf0b0a0333fb4.png",
-    "static/media/languages2.png": "/static/media/languages2.40502a2ca127f75f441a.png",
-    "static/media/settings2.png": "/static/media/settings2.f8866f9b3798f5960f18.png",
-    "static/media/my_platforms_edit.png": "/static/media/my_platforms_edit.e5f9d1decb84a0d3da12.png",
-    "static/media/my_platforms.png": "/static/media/my_platforms.35eac3e8e6a9b0fa6d91.png",
-    "static/media/home.png": "/static/media/home.d48a6930ad0b68bc83be.png",
-    "static/media/my_accounts_edit.png": "/static/media/my_accounts_edit.f5a5feb634682b2a8d04.png",
-    "static/media/my_accounts.png": "/static/media/my_accounts.1dca51244cec83e329cf.png",
-    "static/media/webpage-logo.png": "/static/media/webpage-logo.dfd25ea9e26ef19e7314.png",
+    "main.css": "/static/css/main.03b70496.css",
+    "main.js": "/static/js/main.1825480b.js",
+    "static/media/logo.png": "/static/media/logo.80b122d50192f00b0892.png",
+    "static/media/home.webp": "/static/media/home.da2bcff10ecf0690b49d.webp",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/Huawei.svg": "/static/media/Huawei.05f60516d2a39d595dabc4ffdec3856a.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/youtube.svg": "/static/media/youtube.cfb766268d9589d945c78a0fe55db766.svg",
     "index.html": "/index.html",
-    "static/media/Google-Play.svg": "/static/media/Google-Play.ac31ae6df1dba23b69f866a909077d74.svg",
-    "static/media/Apple-light.svg": "/static/media/Apple-light.cdd7304efd805f2053de1036bf9b5ed4.svg",
-    "static/media/Apple.svg": "/static/media/Apple.71320a89dc7cdb815431216cf0bc1dd2.svg",
+    "static/media/google-play.svg": "/static/media/google-play.95f8e8937a9f1fe95b9d48854d8c1d21.svg",
+    "static/media/apple-dark.svg": "/static/media/apple-dark.0c2d92f8a33e07737db627b157b65bfe.svg",
+    "static/media/apple-light.svg": "/static/media/apple-light.75997320c47fc7050429a0b1a2413749.svg",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.8c7d95ca.css.map": "/static/css/main.8c7d95ca.css.map",
-    "main.e67a2c3c.js.map": "/static/js/main.e67a2c3c.js.map"
+    "main.03b70496.css.map": "/static/css/main.03b70496.css.map",
+    "main.1825480b.js.map": "/static/js/main.1825480b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c7d95ca.css",
-    "static/js/main.e67a2c3c.js"
+    "static/css/main.03b70496.css",
+    "static/js/main.1825480b.js"
   ]
 }
