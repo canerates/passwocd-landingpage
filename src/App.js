@@ -1,7 +1,11 @@
-import { Route, Routes, useLocation } from "react-router-dom";
-import { useEffect } from 'react';
-import Home from './pages/Home'
-import PrivacyPolicy from "./pages/PrivacyPolicy";
+import { React, useState, useEffect } from "react"
+import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom"
+import { CssBaseline, ThemeProvider } from "@mui/material"
+import { ThemeContext } from "./utils/ThemeContext"
+import Main from "./pages/Main"
+import PrivacyPolicy from "./pages/PrivacyPolicy"
+
+import { lightTheme, darkTheme } from "./utils/Theme";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -13,16 +17,27 @@ function ScrollToTop() {
 }
 
 function App() {
+  const [theme, setTheme] = useState(() => {
+    return window.localStorage.getItem("theme") || "light";
+  });
 
-  return(
-    <div className='App'>
-      <ScrollToTop />
-      <Routes> 
-        <Route exact path='/' element={<Home />} />
-        <Route path='/privacy' element={<PrivacyPolicy/>} />
-      </Routes>
-    </div>
-  )
+  const muiTheme = theme === "light" ? lightTheme : darkTheme;
+
+  return (
+    <ThemeContext.Provider value={{ theme, setTheme }}>
+      <ThemeProvider theme={muiTheme}>
+        <CssBaseline>
+          <Router>
+            <ScrollToTop />
+            <Routes>
+              <Route exact path="/" element={<Main />} />
+              <Route path="/privacy" element={<PrivacyPolicy />} />
+            </Routes>
+          </Router>
+        </CssBaseline>
+      </ThemeProvider>
+    </ThemeContext.Provider>
+  );
 }
 
 export default App;
