@@ -81,7 +81,7 @@ const StyledScreensSlider = styled(Slider)(({ theme }) => ({
 const Screens = () => {
 
   const [screensContainer, screensContainerInView] = useInView({
-    threshold: 0.2,
+    threshold: 0.1,
     triggerOnce: true,
   });
 
@@ -158,11 +158,11 @@ const Screens = () => {
             screensContainerInView ? "animate__animated animate__fadeInUp" : ""
           }
         >
-          <PageHeader title="Screens" subText="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. " />
+          <PageHeader title="Screens" subText="" />
         </StyledGenericContainer>
 
         <StyledScreensContainer>
-          <InView threshold={0.2} triggerOnce={true}>
+          <InView threshold={0.1} triggerOnce={true}>
             {({ ref, inView }) => (
               <StyledScreensGrid
                 ref={ref}

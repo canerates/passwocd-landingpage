@@ -6,7 +6,7 @@ export const StyledGenericButton = styled(Button)(({ theme, isDrawer, fontSize }
   backgroundColor: theme.palette.button.backgroundPrimary + " !important",
   color: theme.palette.button.foregroundPrimary,
   transition: isDrawer ? "opacity 600ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, background-color 200ms ease-in-out 0s !important" : "transform 150ms ease-in-out 0s !important",
-  padding: "6px 12px",
+  padding: "2px 6px",
 
   "& p": {
     fontSize: `${fontSize}rem !important`,

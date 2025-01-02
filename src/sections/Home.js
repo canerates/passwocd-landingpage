@@ -52,7 +52,7 @@ const StyledHomeImage = styled("img")(({ theme }) => ({
   height: "auto",
 
   [theme.breakpoints.down("sm")]: {
-    maxWidth: "100%",
+    maxWidth: "150%",
   },
 
 }));
@@ -106,7 +106,7 @@ const StyledHomeSubText = styled(Typography)(({ theme }) => ({
   marginTop: "1rem",
   [theme.breakpoints.down("md")]: {
     textAlign: "center",
-    width: "70%",
+    width: "95%",
   },
 }));
 
