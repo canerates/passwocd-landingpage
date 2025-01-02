@@ -2,4 +2,4 @@
   PasswOCD Landing Page
 </h2>
 
-![Screenshot](./page_home.png)
+![Screenshot](./page-home.png)
